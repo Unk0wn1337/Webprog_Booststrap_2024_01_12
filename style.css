@@ -1,0 +1,16 @@
+header, article ,aside, nav , section, footer {
+    border: 1px solid gray;
+    padding: 10px;
+}
+
+.row {
+    margin: auto;
+}
+
+/* 
+@media screen and (max-width: 978px) {
+    #reszponzivKep {
+        width: 75%;
+    }
+
+  } */
